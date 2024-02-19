@@ -1,0 +1,110 @@
+.order-page-container{
+    display: flex;
+    
+}
+.tabs-container{
+    display: flex;
+    margin-top: 40px;
+}
+.right-side-container{
+    background-color: aliceblue;
+    width: 100%;
+}
+.tab-heading{
+    font-size: 14px;
+    font-weight: 600;
+    color: #373737;
+}
+.import-button{
+    height: 30px;
+    background-color: #ffffff;
+    border: 1px solid #f1eded;
+    width: 140px;
+    margin-left: 30px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+.accept-button{
+    height: 30px;
+    background-color: #cfc8c8;
+    border: 1px solid #acacac;
+    color: #acacac;
+    width: 140px;
+    margin-left: 30px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+.orders-container{
+    background-color: #ffffff;
+    min-height: 30vh;
+    margin: 20px;
+}
+
+.order-header-checkbox-container{
+    width: 10%;
+    text-align: end;
+ 
+}
+.order-header-channel-container{
+    width: 15%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.order-header-orderno-container{
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.order-header-city-container{
+    width : 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.order-header-customername-container{
+    width : 25%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.order-header-ordervalue-container{
+    width : 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.order-header-status{
+    width: 15%;
+}
+.order-header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f8f8f8;
+    margin-top: 30px;
+    border-bottom: 1px solid #cfcdcd;
+    height: 60px;
+}
+.order-header-hr{
+    align-self: stretch;
+    height: 14px;
+    margin-top: 22px;
+    margin-left: 10px;
+}
+
+.order-header-text{
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 600;
+    color: #373737;
+    margin-left: 10px;
+}
+
+.no-pages-container{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 20px;
+}

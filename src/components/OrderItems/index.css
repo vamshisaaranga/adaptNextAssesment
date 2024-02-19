@@ -1,0 +1,57 @@
+
+.order-items-details-container{
+    margin-top: 10px;
+}
+.plus-icon{
+    font-size: 20px;
+}
+.order-item-checkbox-container{
+    width: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.orderItemsImage{
+    height: 38px;
+}
+.order-items-checkbox{
+    margin-right: 20px;
+   
+}
+.order-item-channel-container{
+    width: 13%;
+    display: flex;
+    justify-content: center;
+    
+}
+.order-item-orderno-container{
+    width: 13%;
+    text-align: left;
+    
+}
+.order-item-orderdate-container{
+    width : 13%;
+    text-align: left;
+    
+}
+.order-item-city-container{
+    width: 9%;
+    text-align: left;
+   
+}
+.order-item-customername-container{
+    width: 21%;
+
+}
+.order-item-ordervalue-container{
+    width : 10%
+}
+.order-items-details-container{
+    display: flex;
+    border-bottom: 1px solid #f7efef;
+}
+.order-item-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #373737;
+}
